@@ -1,0 +1,77 @@
+/* ==========================================================================
+   #SUPPORT
+   ========================================================================== */
+
+.support-area {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+}
+.support-img{
+  margin:5px 0;
+  
+}
+.support-sidebar {
+  width: 20%;
+  background-color: #300d4f;
+  height: 100%;
+}
+
+.support-sidebar ul {
+  list-style: none;
+}
+p{
+  color: white;
+  font-size: 26px;
+  text-shadow: 1px 2px 3px black;
+  border-bottom: 1px grey solid;
+}
+.support-sidebar h3 {
+  color: white;
+  margin-bottom: 0;
+  text-align: left;
+  padding: 10px 20px;
+}
+
+.room {
+  font-size: 22px;
+  color: white;
+  cursor: pointer;
+  text-align: left;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+.room:hover {
+  color: yellowgreen;
+}
+
+.room.active {
+  background-color: yellowgreen;
+  color: white;
+}
+
+.support-session {
+  width: 80%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.current-chat {
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+  padding: 10px 20px;
+  display: flex;
+}
+
+.current-chat h3 {
+  margin-bottom: 0;
+}
+
+.chat-session {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 10px;
+}
+
