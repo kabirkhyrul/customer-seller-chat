@@ -23,4 +23,8 @@ create-react-app client
  http://localhost:3000 
  in this url
  
+ 
+ ## Demo
+ https://www.kabir.infantinventory.com/cs
+ 
  ## Happy Coding
