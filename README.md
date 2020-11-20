@@ -1,4 +1,6 @@
 # Customer And Seller Chat Service For Ecommerce Site
+[![GitHub issues](https://img.shields.io/github/issues/kabirkhyrul/customer-seller-chat?style=for-the-badge)](https://github.com/kabirkhyrul/customer-seller-chat/issues)  [![GitHub forks](https://img.shields.io/github/forks/kabirkhyrul/customer-seller-chat?style=for-the-badge)](https://github.com/kabirkhyrul/customer-seller-chat/network) [![GitHub stars](https://img.shields.io/github/stars/kabirkhyrul/customer-seller-chat?style=for-the-badge)](https://github.com/kabirkhyrul/customer-seller-chat/stargazers) 
+
 Customer Seller chat by NodeJs And ReactJs with pusher API
 
 # Installation
